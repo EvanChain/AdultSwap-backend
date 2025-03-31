@@ -1,0 +1,7 @@
+BlockChain:
+  RpcUrl: https://api.zan.top/node/v1/eth/mainnet/f434bee9f3aa451aa36783a13d632500    #  区块链rpc地址
+  ETHToUSDCAddress: 0x8ad599c3A0ff1De082011EFDDc58f1908eb6e6D8
+  SwapHash: 0xc42079f94a6350d7e6235f29174924f928cc2ac818eb64fed8004e115fbcca67
+MistralApiKey:
+  ApiKey: cxAK6TUK97AQQZUh8qdkt7kIg5b8aFSg
+  ApiUrl: https://api.mistral.ai/v1/chat/completions
