@@ -24,7 +24,7 @@ type MistralResponse struct {
 }
 
 func PostMistral(text string) {
-	apiKey := "cxAK6TUK97AQQZUh8qdkt7kIg5b8aFSg" // 替换为你的真实 API Key
+	apiKey := "" // 替换为你的真实 API Key
 	url := "https://api.mistral.ai/v1/chat/completions"
 	question := "分析以下数据，判断当前最适合质押的价格(请使用中文回复！)\n" + text
 	requestBody := MistralRequest{
